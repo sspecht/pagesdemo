@@ -1,0 +1,5 @@
+navs:
+- title: Home
+  url: "/index.html"
+- title: Data Synopsis
+  url: "/synopsis.html"
